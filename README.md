@@ -1,9 +1,6 @@
 ### 👋 Hi There!
 I’m Thanatcha Pitithadakul  Software engineer
 
-<p align="center">
-<code><img src="https://github.com/mjkodkks/mjkodkks/assets/21122708/26eddc68-6155-4ff1-b0a2-28be674954cd" width="200"/></code>
-</p>
 
 - 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
 - ❤️ I’m in love with Vue.js React.js, Svelte, Astro
