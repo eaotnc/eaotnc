@@ -38,7 +38,7 @@ I’m Thanatcha Pitithadakul  Software engineer
 
 ![](https://komarev.com/ghpvc/?username=mjkodkks)
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=mjkodkks&layout=compact)](https://github.com/mjkodkks/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=eaotnc&layout=compact)](https://github.com/eaotnc/github-readme-stats)
 <!---
 mjkodkks/mjkodkks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
