@@ -1,10 +1,13 @@
 ### 👋 Hi There!
 I’m Thanatcha Pitithadakul  Software engineer
-
+5-year software developer. strongly work with React, angular, Vue, Nodejs and lately Flutter. 
+like to make good code quality. love to learn new things. like to work as a team. 
+have lovely hobbies as a photographer
 
 - 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
 - ❤️ I’m in love with Vue.js React.js, Svelte, Astro
 - 🌱 I'm currently learning Solidjs, Qwik, Monorepo, Playwright, Micro Frontend
+
 
 ### Skill and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
