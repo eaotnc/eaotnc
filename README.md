@@ -1,5 +1,5 @@
 ### 👋 Hi There!
-I’m Thanatcha Pitithadakul  Software engineer
+I’m Eao  Software engineer
 5-year software developer. strongly work with React, angular, Vue, Nodejs and lately Flutter. 
 like to make good code quality. love to learn new things. like to work as a team. 
 have lovely hobbies as a photographer
