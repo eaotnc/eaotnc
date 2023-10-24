@@ -5,8 +5,7 @@ I’m Eao Software engineer
 like to make good code quality. love to learn new things. like to work as a team.
 have lovely hobbies as a photographer
 
-- 👀 I’m interested in Front-End Development, UX/UI, Data Visualization
-- ❤️ I’m in love with Vue.js React.js
+
 
 ### Frontend:
 
