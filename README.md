@@ -36,8 +36,14 @@ have lovely hobbies as a photographer
 <code><img height="27" src="https://graphql.org/img/og-image.png" alt="firebase"></code>
 
 
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql"></code>
+
+### Infra:
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
+<code><img height="27" src="https://coralogix.com/wp-content/uploads/2021/08/Helm_small.png" alt="helm"></code>
+<code><img height="27" src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg" alt="Kubernetes"></code>
+
+
 
 ![](https://komarev.com/ghpvc/?username=eaotnc)
 
